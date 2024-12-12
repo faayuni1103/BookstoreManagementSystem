@@ -1,0 +1,119 @@
+112
+Mathematics
+Ali Habib
+45.00
+10
+
+201
+Physics
+Mark Johnson
+50.00
+9
+
+230
+Chemistry
+Will Pitt
+40.00
+11
+
+341
+English
+Adam Seth
+30.00
+7
+
+441
+Programming Technique
+Brad Jade
+60.00
+12
+
+412
+Digital Logic
+Zahra Fateema
+45.00
+13
+
+105
+Discrete Structure
+Ashley Smith
+30.00
+12
+
+432
+Computer Graphics
+Samantha Jensen
+65.00
+20
+
+311
+Art
+Peter Jay
+25.00
+12
+
+255
+Science
+Fransisca John
+35.00
+13
+
+190
+Calculus
+Ahmad Houd
+55.00
+20
+
+244
+Biology
+Jack Frost
+50.00
+15
+
+360
+Basic Japanese
+Kudo Shinichi
+60.00
+10
+
+362
+Basic French
+Arsene Lupin
+50.00
+13
+
+450
+Basic JAVA
+Solomon Fin
+40.00
+20
+
+183
+Advanced Mathematics
+Ameena Aisy
+55.00
+19
+
+141
+Probability And Statistic
+Tom Finn
+35.00
+17
+
+298
+Thermodynamic
+Brody Shack
+40.00
+20
+
+398
+Basic Korean
+Kim Jungkok
+45.00
+23
+
+478
+Basic Phyton
+Vincent Walker
+45.00
+23
